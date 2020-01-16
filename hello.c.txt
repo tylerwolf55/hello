@@ -1,0 +1,27 @@
+
+/*
+
+multi-line
+comment
+*/
+
+ // single line comment
+ 
+ #include <stdio.h> // preprocessor directive (includes a external library header file)
+ 
+ 
+
+// executable code
+
+
+// left of main: it returns that type of value
+
+int main (void) {
+
+
+printf("Tyler Wolf");
+
+
+
+return 0; // its a statement, that ends with a semi-colon
+}
