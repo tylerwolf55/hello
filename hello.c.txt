@@ -20,7 +20,7 @@ int main (void) {
 
 
 printf("Tyler Wolf");
-
+printf("Electrical Engineering");
 
 
 return 0; // its a statement, that ends with a semi-colon
