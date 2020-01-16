@@ -19,8 +19,11 @@ comment
 int main (void) {
 
 
-printf("Tyler Wolf");
-printf("Electrical Engineering");
+printf("Tyler Wolf\n");
+printf("Electrical Engineering\n");
+
+printf("Brandon Harrell\n");
+printf("Computer Science\n");
 
 
 return 0; // its a statement, that ends with a semi-colon
